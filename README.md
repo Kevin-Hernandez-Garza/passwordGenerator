@@ -12,4 +12,4 @@
 
 https://kevin-hernandez-garza.github.io/passwordGenerator/
 
-### Created by Kevin Hernandez
+### Contributed/Created by Kevin Hernandez
