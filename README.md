@@ -6,7 +6,7 @@
 
 ## Screenshot 
 
-![mockup!](assets/images/mockup.png)
+![mockup!](assets/images/passwordGen-mock.png)
 
 ## Website 
 
