@@ -72,6 +72,10 @@ header {
   clear: both;
 }
 
+button:hover {
+  background-color: purple;
+}
+
 .btn {
   border: none;
   background-color: #556B2F;
